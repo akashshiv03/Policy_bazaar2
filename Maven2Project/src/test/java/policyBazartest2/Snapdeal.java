@@ -8,6 +8,7 @@ public class Snapdeal {
 	public static void main(String[] args) {
 		WebDriver driver=new ChromeDriver();
 		  driver.get("https://www.snapdeal.com/");
+		  System.out.println("hjgjikuyjgbikhh");
 	}
 
 }
