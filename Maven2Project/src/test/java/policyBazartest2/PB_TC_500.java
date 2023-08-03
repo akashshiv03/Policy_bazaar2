@@ -82,6 +82,7 @@ public class PB_TC_500 extends Base_class
 	public void quiteBrowser() throws InterruptedException
 	{
 		closethe_Browser();
+		System.out.println("Made new changes");
 		
 	}
 	
