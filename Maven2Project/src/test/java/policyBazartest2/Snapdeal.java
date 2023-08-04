@@ -10,6 +10,7 @@ public class Snapdeal {
 		  driver.get("https://www.snapdeal.com/");
 		  System.out.println("hjgjikuyjgbikhh");
 		  System.out.println("dmfffd");
+		  System.out.println("dmfffd");
 		  
 	}
 
